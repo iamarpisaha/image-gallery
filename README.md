@@ -2,7 +2,7 @@
 
 A responsive image gallery with smooth horizontal scrolling and navigation buttons.
 
-### Live Demo :
+### Live Demo : https://iamarpisaha.github.io/image-gallery/
 
 ![Image Gallery Preview](./images/preview.png)
 
